@@ -1,2 +1,2 @@
-# nan.ge
-个人主页，导航页展示。
+# blog.baipin.pw
+引导页
